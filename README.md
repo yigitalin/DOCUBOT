@@ -81,3 +81,15 @@ Tarayıcınız üzerinden aşağıdaki adrese giderek projeyi görsel arayüzden
 ```
 http://127.0.0.1:8000/docs
 ```
+
+---
+
+**Hazir Olarak Kullanilabilir PDF'ler**
+
+Asagidaki PDF'ler repo icinde ek kaynak dokumanlar olarak sunulmustur. Isteyen GitHub uzerinden indirip kendi dokuman havuzuna ekleyerek kullanabilir:
+
+- [okan_burs_rehberi.pdf](pdfs/okan_burs_rehberi.pdf)
+- [okan_cap_yandal_rehberi.pdf](pdfs/okan_cap_yandal_rehberi.pdf)
+- [okan_erasmus_rehberi.pdf](pdfs/okan_erasmus_rehberi.pdf)
+- [okan_mezuniyet_rehberi.pdf](pdfs/okan_mezuniyet_rehberi.pdf)
+- [okan_staj_yonergesi.pdf](pdfs/okan_staj_yonergesi.pdf)
