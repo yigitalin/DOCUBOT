@@ -1,7 +1,7 @@
 # UniBot: Yerel LLM Tabanlı Doküman Soru-Cevap Servisi
 
 ## Proje Tanımı
-UniBot, yerel bir Büyük Dil Modeli (LLM) kullanarak kullanıcı tarafından sisteme yüklenen dokümanlar (PDF, TXT, Markdown) üzerinden içerik analizi yapan ve soruları yanıtlayan bir Doküman Soru-Cevap uygulamasıdır. Proje, temel RAG (Retrieval-Augmented Generation) mimarisi üzerine inşa edilmiştir.
+UniBot, yerel bir Büyük Dil Modeli (LLM) kullanarak kullanıcı tarafından sisteme yüklenen dokümanlar PDF üzerinden içerik analizi yapan ve soruları yanıtlayan bir Doküman Soru-Cevap uygulamasıdır. Proje, temel RAG (Retrieval-Augmented Generation) mimarisi üzerine inşa edilmiştir.
 
 ## Projenin Amacı
 Bu çalışma, yerel bir LLM üzerinden doküman setleri ile etkileşim kuran bir servis geliştirmek amacıyla tasarlanmıştır. Projenin odak noktası, harici veya ücretli bulut servislerine ihtiyaç duymadan yerel kaynaklarla verimli bir soru-cevap altyapısı oluşturmak ve bu süreci bir REST API üzerinden sunmaktır.
