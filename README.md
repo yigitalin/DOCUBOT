@@ -84,7 +84,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-**Hazir Olarak Kullanilabilir PDF'ler**
+**Hazır Olarak Kullanılabilir PDF'ler**
 
 Aşağıdaki PDF'ler repo içinde ek kaynak dokümanlar olarak sunulmuştur. İsteyen GitHub üzerinden indirip kendi dokuman havuzuna ekleyerek kullanabilir:
 
